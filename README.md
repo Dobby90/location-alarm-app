@@ -1,6 +1,6 @@
 # location_alarm
 
-Location Alarm Applcation
+Location Alarm Application
 
 ## Getting Started
 
